@@ -9,7 +9,7 @@ public class HelloController {
     @RequestMapping("/hello")
     public String hello(){
         //调用业务，接收前端参数
-        return "hello,world!";
+        return "hello,world!!!!";
     }
 
 }
